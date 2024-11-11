@@ -48,7 +48,7 @@ TODO - add road map
 
 ## Contact and more info
 
-You can find a bunch of videos describing how this was built on my [twitter feed](https://twitter.com/KevinGrassi).
+You can find a bunch of videos describing how this was built on [X](https://x.com/KevinGrassi).
 
 Feel free to dm me on twitter or email: `kevin` at fabrk url
 
