@@ -17,8 +17,7 @@
 
 ## Demo
 
-[https://www.loom.com/share/5f34499ccfb54bfdae32ee50f454b365
-](https://www.youtube.com/watch?v=vpYqR8Qq8UI)
+[Demo](https://www.youtube.com/watch?v=vpYqR8Qq8UI)
 
 
 ## How it works
