@@ -17,7 +17,7 @@
 
 ## Demo
 
-https://www.youtube.com/watch?v=vpYqR8Qq8UI
+[![Hacker News Demo](https://img.youtube.com/vi/vpYqR8Qq8UI/0.jpg)](https://www.youtube.com/watch?v=vpYqR8Qq8UI)
 
 
 ## How it works
