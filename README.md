@@ -17,7 +17,7 @@
 
 ## Demo
 
-[Demo](https://www.youtube.com/watch?v=vpYqR8Qq8UI)
+https://www.youtube.com/watch?v=vpYqR8Qq8UI
 
 
 ## How it works
