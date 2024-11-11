@@ -30,7 +30,12 @@ TODO
 
 ### Quickstart
 
+1) Find an agent to copy/fork here: https://www.fabrk.ai/discover. This is a good one to start with: [HN Demo](https://www.fabrk.ai/agent/hacker-news-demo-agent)
+2) Click on the `copy` button
+3) Create your free account (or login)
+4) Done!
 
+The copied agent will be located in your `agents` tab. You can test it by sending it a message. All the tools were copied so you can edit them and make them your own.
 
 
 ## Limitations
